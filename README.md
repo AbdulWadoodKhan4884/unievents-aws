@@ -90,8 +90,6 @@ python3 app.py
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Live Website
 ![Website](screenshots/Screenshot%202026-05-04%20135010.png)
 
