@@ -91,19 +91,19 @@ python3 app.py
 ## 📸 Screenshots
 
 ### Live Website
-![Website](screenshots/Screenshot%202026-05-04%20135010.png)
+![Website](screenshots/Screenshot%202026-05-04%20135542.png)
 
 ### EC2 Instances
-![EC2](screenshots/Screenshot%202026-05-04%20135030.png)
+![EC2](screenshots/Screenshot%202026-05-04%20135010.png)
 
 ### Load Balancer
-![ALB](screenshots/Screenshot%202026-05-04%20135228.png)
+![ALB](screenshots/Screenshot%202026-05-04%20135030.png)
 
 ### S3 Bucket
-![S3](screenshots/Screenshot%202026-05-04%20135529.png)
+![S3](screenshots/Screenshot%202026-05-04%20135413.png)
 
 ### VPC
-![VPC](screenshots/Screenshot%202026-05-04%20135413.png)
+![VPC](screenshots/Screenshot%202026-05-04%20135319.png)
 
 ---
 
